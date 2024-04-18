@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.select{
+  @apply    p-2  outline-none  text-lg bg-purple-600 flex-1 text-gray-50 
+}
+
